@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **Android ,Mern**
+- 💬 Ask me about **Mern**
 
 - 📫 How to reach me **nofil.khan037@gmail.com**
 
